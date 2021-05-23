@@ -1,2 +1,2 @@
-# collision_algorithm
-Created our own algorithm to detect collision of two sprites.
+# p5.play-boilerplate
+Boiler plate for p5.play
